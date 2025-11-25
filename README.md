@@ -1,4 +1,3 @@
-# privacy-policy
 <!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -163,37 +162,3 @@
     </p>
 </body>
 </html>
-```
-
-#### ステップ3: コミット
-```
-1. ページ下部の「Commit changes」をクリック
-
-2. 「Commit directly to the main branch」を選択
-
-3. 「Commit changes」をクリック
-```
-
-#### ステップ4: GitHub Pages を有効化
-```
-1. リポジトリの「Settings」タブをクリック
-
-2. 左サイドバーの「Pages」をクリック
-
-3. 「Source」セクションで:
-   - Branch: main を選択
-   - Folder: / (root) を選択
-
-4. 「Save」をクリック
-
-5. 数分待つと、URLが表示される:
-   https://yourusername.github.io/privacy-policy/privacy-policy.html
-```
-
-#### ステップ5: URLをコピー
-```
-表示されたURL:
-https://yourusername.github.io/privacy-policy/privacy-policy.html
-
-このURLをLWAセキュリティプロファイルの
-「Consent Privacy Notice URL」に使用 ✓
