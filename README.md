@@ -147,7 +147,7 @@
         以下までご連絡ください：
     </p>
     <p>
-        <strong>メールアドレス：</strong> privacy@yourcompany.com<br>
+        <strong>メールアドレス：</strong> keita.inaba@accordsystem.co.jp<br>
         <strong>対応時間：</strong> 平日 9:00-18:00（日本時間）
     </p>
     
