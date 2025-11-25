@@ -1,1 +1,199 @@
 # privacy-policy
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>プライバシーポリシー - Amazon広告管理ツール</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+        }
+        h1 {
+            color: #232F3E;
+            border-bottom: 2px solid #FF9900;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #232F3E;
+            margin-top: 30px;
+        }
+        .last-updated {
+            color: #666;
+            font-style: italic;
+        }
+        ul {
+            padding-left: 25px;
+        }
+        li {
+            margin-bottom: 8px;
+        }
+    </style>
+</head>
+<body>
+    <h1>プライバシーポリシー</h1>
+    <p class="last-updated">最終更新日: 2025年11月25日</p>
+    
+    <h2>1. はじめに</h2>
+    <p>
+        本サービス（以下「当サービス」）は、Amazon広告データの管理・分析を支援するツールです。
+        本プライバシーポリシーは、当サービスがユーザーの個人情報および広告データをどのように
+        収集、使用、保護するかを説明します。
+    </p>
+    
+    <h2>2. 収集する情報</h2>
+    <p>当サービスは、以下の情報を収集します：</p>
+    <ul>
+        <li>Amazon広告アカウント情報（アカウントID、プロファイルID）</li>
+        <li>広告キャンペーンデータ（キャンペーン名、予算、ステータス等）</li>
+        <li>広告パフォーマンスデータ（インプレッション数、クリック数、売上等）</li>
+        <li>広告グループおよびキーワード情報</li>
+        <li>プロファイル情報（国コード、通貨、マーケットプレイスID）</li>
+    </ul>
+    
+    <h2>3. 情報の使用目的</h2>
+    <p>収集した情報は、以下の目的で使用されます：</p>
+    <ul>
+        <li>広告パフォーマンスの分析およびレポートの作成</li>
+        <li>広告キャンペーンの最適化提案</li>
+        <li>データの可視化およびダッシュボード表示</li>
+        <li>サービスの提供、維持、改善</li>
+        <li>ユーザーサポートの提供</li>
+    </ul>
+    
+    <h2>4. データの保存と保護</h2>
+    <p>当サービスは、ユーザーデータの安全性を最優先事項として、以下の対策を実施しています：</p>
+    <ul>
+        <li>すべてのデータを暗号化してデータベースに保存</li>
+        <li>SSL/TLS（HTTPS）による安全な通信</li>
+        <li>アクセス制御による不正アクセスの防止</li>
+        <li>定期的なセキュリティ監査の実施</li>
+        <li>アクセストークンおよびリフレッシュトークンの暗号化保存</li>
+    </ul>
+    
+    <h2>5. 第三者への情報共有</h2>
+    <p>
+        当サービスは、ユーザーの同意なく第三者に個人情報や広告データを
+        販売、貸与、または共有することはありません。
+    </p>
+    <p>ただし、以下の場合に限り、必要最小限の情報を共有する場合があります：</p>
+    <ul>
+        <li>法律に基づく要請がある場合</li>
+        <li>ユーザーの生命、身体または財産の保護のために必要な場合</li>
+        <li>サービス提供に必要なインフラストラクチャプロバイダー（AWS、Google Cloud等）への限定的な共有</li>
+    </ul>
+    
+    <h2>6. Cookieおよび類似技術</h2>
+    <p>
+        当サービスは、セッション管理のために必須Cookieを使用します。
+        これらのCookieは、ログイン状態の維持に必要不可欠であり、
+        マーケティング目的では使用されません。
+    </p>
+    
+    <h2>7. ユーザーの権利</h2>
+    <p>ユーザーは、以下の権利を有します：</p>
+    <ul>
+        <li><strong>アクセス権限の取り消し：</strong> 
+            Amazonアカウントの
+            <a href="https://www.amazon.co.jp/ap/adam" target="_blank">アプリとサービスの設定</a>
+            から、いつでも当サービスへのアクセス権限を取り消すことができます。
+        </li>
+        <li><strong>データの削除：</strong> 
+            アカウント削除時、すべてのデータは30日以内に完全に削除されます。
+        </li>
+        <li><strong>データのダウンロード：</strong> 
+            保存されている自身のデータのコピーを要求できます。
+        </li>
+        <li><strong>異議申し立て：</strong> 
+            データ処理方法について異議を申し立てる権利があります。
+        </li>
+    </ul>
+    
+    <h2>8. データ保持期間</h2>
+    <p>
+        ユーザーデータは、アカウントが有効である間保持されます。
+        アカウント削除またはアクセス権限取り消しから30日後、
+        すべてのデータは当サービスから完全に削除されます。
+    </p>
+    
+    <h2>9. 子供のプライバシー</h2>
+    <p>
+        当サービスは、13歳未満の子供を対象としていません。
+        13歳未満の子供から故意に個人情報を収集することはありません。
+    </p>
+    
+    <h2>10. 国際データ転送</h2>
+    <p>
+        当サービスは日本国内でホスティングされていますが、
+        Amazon Web Services（AWS）等のクラウドサービスを利用しており、
+        データが国外のサーバーに保存される場合があります。
+        その場合も、適切なセキュリティ対策を講じています。
+    </p>
+    
+    <h2>11. プライバシーポリシーの変更</h2>
+    <p>
+        本プライバシーポリシーは、必要に応じて変更される場合があります。
+        重要な変更がある場合は、登録されているメールアドレス宛に通知いたします。
+        継続的にサービスを利用することで、変更後のポリシーに同意したものとみなされます。
+    </p>
+    
+    <h2>12. お問い合わせ</h2>
+    <p>
+        プライバシーに関するご質問、ご意見、またはデータに関するご要望がある場合は、
+        以下までご連絡ください：
+    </p>
+    <p>
+        <strong>メールアドレス：</strong> privacy@yourcompany.com<br>
+        <strong>対応時間：</strong> 平日 9:00-18:00（日本時間）
+    </p>
+    
+    <h2>13. 準拠法</h2>
+    <p>
+        本プライバシーポリシーは、日本国の法律に準拠し、解釈されます。
+    </p>
+    
+    <hr style="margin-top: 40px; border: none; border-top: 1px solid #ddd;">
+    <p style="color: #666; font-size: 14px;">
+        © 2025 Amazon広告管理ツール. All rights reserved.
+    </p>
+</body>
+</html>
+```
+
+#### ステップ3: コミット
+```
+1. ページ下部の「Commit changes」をクリック
+
+2. 「Commit directly to the main branch」を選択
+
+3. 「Commit changes」をクリック
+```
+
+#### ステップ4: GitHub Pages を有効化
+```
+1. リポジトリの「Settings」タブをクリック
+
+2. 左サイドバーの「Pages」をクリック
+
+3. 「Source」セクションで:
+   - Branch: main を選択
+   - Folder: / (root) を選択
+
+4. 「Save」をクリック
+
+5. 数分待つと、URLが表示される:
+   https://yourusername.github.io/privacy-policy/privacy-policy.html
+```
+
+#### ステップ5: URLをコピー
+```
+表示されたURL:
+https://yourusername.github.io/privacy-policy/privacy-policy.html
+
+このURLをLWAセキュリティプロファイルの
+「Consent Privacy Notice URL」に使用 ✓
